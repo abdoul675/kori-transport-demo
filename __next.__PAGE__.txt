@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:"/kori-transport-demo/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/kori-transport-demo/_next/static/chunks/05f_wk3tdev1d.js"
+9:I[5500,["$2","$8"],"Image"]
+a:I[22016,["$2","$8"],""]
+b:I[97367,["$2"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$2"],"$11"]
+13:I[27201,["$2"],"IconMark"]
+:HL["/kori-transport-demo/_next/static/chunks/0fxi_h-xzasxo.css","style"]
+:HL["/kori-transport-demo/_next/static/chunks/1u8gv5q4f_24p.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"contenu","className":"login-page","children":[["$","div",null,{"className":"login-layout","children":[["$","section",null,{"className":"login-intro","children":[["$","span",null,{"className":"eyebrow","children":"KORI TRANSPORT"}],["$","h1",null,{"children":["Vos opérations,",["$","br",null,{}],"en toute clarté."]}],["$","p",null,{"children":"Un espace commun pour organiser les missions, accompagner les équipes et suivre les livraisons."}],["$","div",null,{"className":"login-benefit","children":[["$","strong",null,{"children":"Une vue d’ensemble"}],["$","span",null,{"children":"Clients, commandes et missions au même endroit."}]]}],["$","div",null,{"className":"login-benefit","children":[["$","strong",null,{"children":"Au bureau comme sur le terrain"}],["$","span",null,{"children":"Une interface adaptée à l’ordinateur et au mobile."}]]}]]}],["$","section",null,{"className":"login-card","children":[["$","$L9",null,{"className":"kori-logo kori-logo-large","src":"/kori-transport-demo/logo-kori-transport.png","width":343,"height":230,"alt":"KORI TRANSPORT — logo officiel","priority":true}],["$","h2",null,{"children":"Accès à la démonstration"}],["$","p",null,{"className":"text-secondary text-center","children":"Accédez à la gestion de vos opérations de transport."}],["$","p",null,{"className":"alert alert-info","children":"La démonstration est accessible sans compte. Elle contient uniquement des exemples fictifs."}],["$","hr",null,{}],["$","$La",null,{"href":"/demo/tableau-de-bord","className":"btn btn-outline-primary w-100","children":"Explorer la démonstration"}],["$","p",null,{"className":"small text-secondary text-center mt-3 mb-0","children":["Accès réel réservé aux utilisateurs autorisés.",["$","br",null,{}],"La démonstration contient uniquement des données fictives."]}]]}]]}],["$","p",null,{"className":"login-footer","children":"KORI TRANSPORT · Transport de gaz en vrac"}]]}],[["$","script","script-0",{"src":"/kori-transport-demo/_next/static/chunks/05f_wk3tdev1d.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kori-transport-demo/_next/static/chunks/0fxi_h-xzasxo.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/kori-transport-demo/_next/static/chunks/1u8gv5q4f_24p.css","precedence":"next"}],["$","script","script-0",{"src":"/kori-transport-demo/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"fr","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#contenu","children":"Aller au contenu"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KORI TRANSPORT — gestion des opérations"}],["$","meta","1",{"name":"description","content":"Gestion des missions et des opérations de transport de gaz."}],["$","link","2",{"rel":"icon","href":"/kori-transport-demo/logo-kori-transport.png"}],["$","$L13","3",{}]]}]}],null]}],null]}],"p":"$@14","v":null,"s":"$6"}},"a":"$@15","u":"$@16","b":"MGLt-Fw2hCKAH-K-vmvco"}
+d:null
+6:300
+16:true
+6:C
+15:0
+5:"$undefined"
+14:"$undefined"
+e:"$undefined"
